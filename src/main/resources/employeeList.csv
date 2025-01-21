@@ -1,0 +1,14 @@
+Id,firstName,lastName,salary,managerId
+123,Joe,Doe,60000,
+124,Martin,Chekov,45000,123
+125,Bob,Ronstad,47000,123
+126,Mary,Smith,75000,123
+127,Gary,Brown,70000,125
+300,Alice,Hasacat,50000,124
+305,Brett,Hardleaf,34000,300
+306,Jim,Boots,45000,126
+207,Tim,Mayers,70000,127
+267,Tara,Right,50000,128
+128,Bill,Ryan,50000,127
+269,Ali,Rim,50000,129
+129,Bill,White,50000,128
