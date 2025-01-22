@@ -1,10 +1,11 @@
-package com.bigcompany;
+package com.bigcompany.strategy;
 
 import com.bigcompany.model.Employee;
+import com.bigcompany.strategy.ValidationStrategy;
 
 import java.util.List;
 
-public class SalaryValidationStrategy implements ValidationStrategy{
+public class SalaryValidationStrategy implements ValidationStrategy {
     @Override
     public void validate(Employee manager, List<Employee> subordinates) {
         double avgSalary = subordinates.stream()

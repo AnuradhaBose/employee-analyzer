@@ -1,4 +1,4 @@
-package com.bigcompany;
+package com.bigcompany.reader;
 
 import java.io.BufferedReader;
 import java.io.IOException;

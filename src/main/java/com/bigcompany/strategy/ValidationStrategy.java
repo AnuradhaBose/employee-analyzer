@@ -1,4 +1,4 @@
-package com.bigcompany;
+package com.bigcompany.strategy;
 
 import com.bigcompany.model.Employee;
 

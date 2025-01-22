@@ -1,4 +1,4 @@
-package com.bigcompany;
+package com.bigcompany.factory;
 import com.bigcompany.model.Employee;
 
 public class EmployeeFactory {
